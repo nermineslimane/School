@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bg.jpg</file>
+        <file>img/b_l_n.png</file>
+        <file>img/b_l_p.png</file>
+        <file>img/dart117_checkbox_disable.png</file>
+        <file>img/dart117_checkbox_unselected.png</file>
+        <file>img/dart117_list.png</file>
+        <file>img/dart117_list_checkmark.png</file>
+        <file>img/dart117_unchecked.png</file>
+        <file>img/uncheck.png</file>
+    </qresource>
+</RCC>
